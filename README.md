@@ -1,14 +1,16 @@
-DHC Blockchain healthImage
+# DHC Blockchain HealthImage
+
 This is the upload  healthImage tool of DHC. This write by node.js. use antd-design-pro framework. Users can compile it white node.js
 
-Getting Started
+### Getting Started
+
 Clone the repo:
+<pre><code>git clone https://github.com/DHC-DeepHealthChain/healthImage.git
+cd healthImage</code></pre>
 
-git clone https://github.com/DHC-DeepHealthChain/healthImage.git
-cd healthImage
 Install:
+<pre><code>npm install</code></pre>
 
-npm install
 Start:
+<pre><code>npm start</code></pre>
 
-npm start
